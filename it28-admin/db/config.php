@@ -1,18 +1,18 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-
+/*
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_NAME', 'paca');
+*/
 
-/*
 define('DB_SERVER', 'localhost');
 define('DB_NAME', 'u593341949_db_paca');
 define('DB_USERNAME', 'u593341949_dev_paca');
 define('DB_PASSWORD', '20211486Paca'); 
-*/
+
 /* Attempt to connect to MySQL database */
 try{
     $pdo = new PDO("mysql:host=" . DB_SERVER . ";dbname=" . DB_NAME, DB_USERNAME, DB_PASSWORD);
