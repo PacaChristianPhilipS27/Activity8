@@ -75,7 +75,7 @@
 </head>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">
-        <img src="\it28-admin\images\Paca Logo.png" width="50" height="50" class="d-inline-block align-top" alt="">
+        <img src="it28-admin\images\Paca Logo.png" width="50" height="50" class="d-inline-block align-top" alt="">
         PACA PIZZA SINCE 2018
     </a>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
