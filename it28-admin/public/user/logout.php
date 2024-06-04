@@ -9,6 +9,6 @@ $_SESSION = array();
 session_destroy();
  
 // Redirect to login page
-header("Location: /paca-dev-purchases/it28-admin/index.php");
+header("Location: /dev-paca/it28-admin/index.php");
 exit;
 ?>
