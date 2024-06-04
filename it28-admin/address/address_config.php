@@ -12,7 +12,6 @@ $dbname = 'u593341949_db_paca';
 $username = 'u593341949_dev_paca';
 $password = '20211486Paca';
 */
-
 try {
     $pdo = new PDO("mysql:host={$dbHost};dbname={$dbName}", $dbUsername, $dbPassword);
     // Set the PDO error mode to exception
