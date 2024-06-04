@@ -1,15 +1,15 @@
 <?php
 
-// $host = 'localhost';
-// $dbname = 'paca';
-// $username = 'root';
-// $password = '';
-
+$host = 'localhost';
+$dbname = 'paca';
+$username = 'root';
+$password = '';
+/*
 define('DB_SERVER', 'localhost');
 define('DB_NAME', 'u593341949_db_paca');
 define('DB_USERNAME', 'u593341949_dev_paca');
-define('DB_PASSWORD', 'Paca');
-
+define('DB_PASSWORD', '20211486Paca');
+*/
 // try {
 //  $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 //  $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
